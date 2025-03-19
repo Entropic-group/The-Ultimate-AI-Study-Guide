@@ -1,2 +1,2 @@
-# The-Ultimate-AI-Study-Guide
-In my journey of independently learning AI, I did much research and came across tons of materials; some were good, others not that much... and I selected the best of the best for you. 
+# The Ultimate AI Study Guide
+In my journey of independently learning AI, I did much research and came across tons of materials; some were good, others not that much... and I selected the best of the best for you. I’ll tell you everything that needs to be learned and, for each topic mentioned in this guide, specific materials (courses, books, websites, and more) will be referenced with links for easy access along with quick explanations for each of the subjects that one needs to convert in order to dive into artificial intelligence.
